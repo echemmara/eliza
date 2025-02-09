@@ -7,7 +7,7 @@
     "dependencies": {
         "@elizaos/core": "workspace:*",
         "@chain-registry/utils": "^1.51.41",
-        "@cosmjs/cosmwasm-stargate": "^0.32.4",
+        "@cosmjs/cosmwasm-stargate": "^0.33.0",
         "@cosmjs/proto-signing": "^0.32.4",
         "@cosmjs/stargate": "^0.32.4",
         "@skip-go/client": "^0.16.3",
