@@ -23,7 +23,7 @@
         "ai-agent-sdk-js": "^0.0.2",
         "@ethersproject/contracts": "^5.7.0",
         "@ethersproject/providers": "^5.7.0",
-        "ethers": "^5.7.2"
+        "ethers": "^6.0.0"
     },
     "scripts": {
         "build": "tsup --format esm --dts",
