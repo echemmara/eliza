@@ -21,10 +21,10 @@
 
     "dependencies": {
       "@injectivelabs/networks": "1.14.34-beta.2",
-      "@injectivelabs/sdk-ts": "1.14.34-beta.2",
+      "@injectivelabs/sdk-ts": "1.14.44",
       "@injectivelabs/token-metadata": "1.14.11",
       "@injectivelabs/ts-types": "1.14.34-beta.2",
-      "@injectivelabs/utils": "1.14.34-beta.2",
+      "@injectivelabs/utils": "1.14.43",
       "bignumber.js": "^9.1.2"
     },
     "devDependencies": {
