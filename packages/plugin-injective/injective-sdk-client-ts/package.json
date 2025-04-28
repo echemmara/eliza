@@ -21,7 +21,7 @@
 
     "dependencies": {
       "@injectivelabs/networks": "1.14.34-beta.2",
-      "@injectivelabs/sdk-ts": "1.14.34-beta.2",
+      "@injectivelabs/sdk-ts": "1.14.59",
       "@injectivelabs/token-metadata": "1.14.11",
       "@injectivelabs/ts-types": "1.14.34-beta.2",
       "@injectivelabs/utils": "1.14.34-beta.2",
